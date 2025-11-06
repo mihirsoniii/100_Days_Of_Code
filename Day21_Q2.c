@@ -14,4 +14,5 @@ int main() {
     else
         printf("%d is not a perfect number.\n", num);
     return 0;
+    
 }

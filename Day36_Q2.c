@@ -19,4 +19,5 @@ int main() {
 
     printf("Sum of all elements in the matrix = %d\n", sum);
     return 0;
+    
 }

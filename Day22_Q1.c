@@ -27,4 +27,5 @@ int main() {
         printf("%d is not a Strong number.\n", originalNum);
 
     return 0;
+    
 }

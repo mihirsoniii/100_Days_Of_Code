@@ -26,4 +26,5 @@ int main() {
 
     printf("Pivot index: %d\n", pivotIndex);
     return 0;
+    
 }

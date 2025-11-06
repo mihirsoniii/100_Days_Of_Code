@@ -14,4 +14,5 @@ int main() {
     printf("\nSimple Interest = %.2f\n", simple_interest);
     printf("Compound Interest = %.2f\n", compound_interest);
     return 0;
+    
 }

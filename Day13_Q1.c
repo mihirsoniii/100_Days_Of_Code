@@ -9,6 +9,7 @@ int main() {
     printf("Enter two operands: ");
     scanf("%f %f", &num1, &num2);
 
+    
     switch (operator) {
         case '+':
             result = num1 + num2;

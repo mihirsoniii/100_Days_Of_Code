@@ -7,4 +7,5 @@ int main() {
     fahrenheit = (celsius * 9 / 5) + 32;
     printf("\n%.2f Celsius = %.2f Fahrenheit\n", celsius, fahrenheit);
     return 0;
+    
 }

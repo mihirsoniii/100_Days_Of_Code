@@ -19,4 +19,5 @@ int main() {
     printf("Number of even elements = %d\n", evenCount);
     printf("Number of odd elements = %d\n", oddCount);
     return 0;
+    
 }

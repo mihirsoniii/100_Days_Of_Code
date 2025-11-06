@@ -22,4 +22,5 @@ int main() {
 
     printf("1's Complement of %lld is %d\n", binaryNum, onesComplement);
     return 0;
+    
 }

@@ -20,6 +20,7 @@ int main() {
         } else if (arr[i] > secondLargest && arr[i] != firstLargest) {
             secondLargest = arr[i];
         }
+        
     }
 
     if (secondLargest == -2147483648) {

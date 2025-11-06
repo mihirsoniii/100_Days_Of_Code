@@ -19,4 +19,5 @@ int main() {
 
     printf("String after removing vowels: %s\n", result);
     return 0;
+    
 }

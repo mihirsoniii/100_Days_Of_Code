@@ -17,4 +17,5 @@ int main() {
 
     printf("Number after swapping first and last digit: %d\n", swappedNum);
     return 0;
+    
 }

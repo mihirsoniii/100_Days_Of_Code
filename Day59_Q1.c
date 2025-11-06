@@ -27,4 +27,5 @@ int main() {
 
     printf("Maximum sum of subarrays of size %d: %d\n", k, maxSum);
     return 0;
+    
 }

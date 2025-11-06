@@ -29,4 +29,5 @@ int main() {
         printf("Sum of row %d = %d\n", i, rowSums[i]);
     }
     return 0;
+    
 }

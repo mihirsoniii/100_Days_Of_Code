@@ -25,4 +25,5 @@ int main() {
 
     printf("Sentence with each word reversed: %s\n", str);
     return 0;
+    
 }

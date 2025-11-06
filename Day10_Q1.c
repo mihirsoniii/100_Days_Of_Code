@@ -12,4 +12,5 @@ int main() {
         printf("The triangle is Scalene.\n");
     }
     return 0;
+    
 }

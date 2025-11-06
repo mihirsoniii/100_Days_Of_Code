@@ -13,4 +13,5 @@ int main() {
 
     printf("Sum of the series up to %d terms = %.2f\n", n, sum);
     return 0;
+    
 }

@@ -12,4 +12,5 @@ int main() {
 
     printf("Number of characters in the string: %d\n", count);
     return 0;
+    
 }

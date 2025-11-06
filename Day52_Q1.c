@@ -24,4 +24,5 @@ int main() {
 
     printf("Index of the ceil of %d: %d\n", x, ceilIndex);
     return 0;
+    
 }

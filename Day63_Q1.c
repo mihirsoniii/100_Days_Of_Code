@@ -33,4 +33,5 @@ int main() {
         printf("Invalid value of k.\n");
 
     return 0;
+    
 }

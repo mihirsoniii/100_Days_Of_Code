@@ -23,4 +23,5 @@ int main() {
 
     printf("Pivot integer: %d\n", pivot);
     return 0;
+    
 }

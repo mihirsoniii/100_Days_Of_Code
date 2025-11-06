@@ -23,4 +23,5 @@ int main() {
 
     printf("Majority element: %d\n", majorityElement);
     return 0;
+    
 }

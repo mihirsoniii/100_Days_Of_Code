@@ -11,6 +11,7 @@ int main() {
     printf("Enter the number of electricity units consumed: ");
     scanf("%d", &units);
 
+    
     if (units <= 100) {
         bill_amount = units * 5.0;
     } else if (units <= 200) {

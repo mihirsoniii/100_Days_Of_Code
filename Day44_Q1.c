@@ -24,4 +24,5 @@ int main() {
     printf("Number of digits: %d\n", digits);
     printf("Number of special characters: %d\n", specialChars);
     return 0;
+    
 }

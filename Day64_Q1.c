@@ -33,4 +33,5 @@ int main() {
     printf("Length of the longest substring without repeating characters: %d\n", maxLength);
 
     return 0;
+    
 }

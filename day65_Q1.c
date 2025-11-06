@@ -40,4 +40,5 @@ int main() {
 
     printf("Anagram\n");
     return 0;
+    
 }

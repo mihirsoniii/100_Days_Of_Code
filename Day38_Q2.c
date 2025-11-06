@@ -40,4 +40,5 @@ int main() {
         printf("The matrix is not symmetric.\n");
     }
     return 0;
+    
 }

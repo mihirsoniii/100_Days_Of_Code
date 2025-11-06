@@ -14,6 +14,7 @@ int main() {
     if (late_days <= 5) {
         fine = late_days * 2;
     } else if (late_days <= 10) {
+        
         fine = (5 * 2) + ((late_days - 5) * 4);
     } else if (late_days <= 30) {
         fine = (5 * 2) + (5 * 4) + ((late_days - 10) * 6);

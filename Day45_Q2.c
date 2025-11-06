@@ -17,4 +17,5 @@ int main() {
 
     printf("Toggled case string: %s\n", str);
     return 0;
+    
 }

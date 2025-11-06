@@ -31,4 +31,5 @@ int main() {
 
     printf("The strings are anagrams.\n");
     return 0;
+    
 }

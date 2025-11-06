@@ -22,4 +22,5 @@ int main() {
 
     printf("The digit that occurs the most is %d, occurring %d times.\n", maxDigit, maxCount);
     return 0;
+    
 }

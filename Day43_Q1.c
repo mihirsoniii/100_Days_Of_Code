@@ -20,4 +20,5 @@ int main() {
 
     printf("Reversed string: %s\n", reversed);
     return 0;
+    
 }

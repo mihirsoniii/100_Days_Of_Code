@@ -25,4 +25,5 @@ int main() {
         printf("No, \"%s\" is not a rotation of \"%s\".\n", str2, str1);
 
     return 0;
+    
 }

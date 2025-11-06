@@ -12,6 +12,7 @@ int main() {
         printf("Profit: %.2f\n", profit);
         printf("Profit Percentage: %.2f%%\n", profit_percentage);
     } else if (cost_price > selling_price) {
+        
         loss = cost_price - selling_price;
         loss_percentage = (loss / cost_price) * 100;
         printf("Loss: %.2f\n", loss);

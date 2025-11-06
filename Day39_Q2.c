@@ -28,4 +28,5 @@ int main() {
 
     printf("Sum of main diagonal elements = %d\n", sum);
     return 0;
+    
 }

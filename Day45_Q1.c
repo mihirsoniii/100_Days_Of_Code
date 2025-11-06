@@ -19,4 +19,5 @@ int main() {
 
     printf("Frequency of '%c' in the string: %d\n", ch, frequency);
     return 0;
+    
 }

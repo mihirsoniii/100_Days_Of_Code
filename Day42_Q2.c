@@ -15,4 +15,5 @@ int main() {
 
     printf("Uppercase string: %s\n", str);
     return 0;
+    
 }

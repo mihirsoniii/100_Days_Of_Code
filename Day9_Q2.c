@@ -26,4 +26,5 @@ int main() {
     }
     printf("The grade is: %c\n", grade);
     return 0;
+    
 }

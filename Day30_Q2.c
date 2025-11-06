@@ -22,4 +22,5 @@ int main() {
     printf("Number of negative elements = %d\n", negCount);
     printf("Number of zero elements = %d\n", zeroCount);
     return 0;
+    
 }

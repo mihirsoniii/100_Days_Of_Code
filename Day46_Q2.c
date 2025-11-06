@@ -23,4 +23,5 @@ int main() {
 
     printf("No repeating lowercase alphabet found.\n");
     return 0;
+    
 }

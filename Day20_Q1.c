@@ -18,4 +18,5 @@ int main() {
     else
         printf("No odd digits found in the number.\n");
     return 0;
+    
 }

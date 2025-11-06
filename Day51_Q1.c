@@ -29,4 +29,5 @@ int main() {
 
     printf("First and Last occurrence of %d: %d, %d\n", target, first, last);
     return 0;
+    
 }

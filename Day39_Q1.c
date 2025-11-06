@@ -40,4 +40,5 @@ int main() {
         printf("The diagonal elements are not distinct.\n");
     }
     return 0;
+    
 }
